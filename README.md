@@ -137,7 +137,7 @@ Thus at this point, the transaction included 0.6 BTC left with Raju as he drank 
 Thus from the above example, it could be made clear that Layer 2 protocols provide a second framework where transactions can take place separately from layer 1. This means that a great portion of the work that would be performed by the main chain can be moved to the second layer. So while the main chain (layer 1) provides security, the second layer offers high throughput, being able to perform hundreds, or even thousands, of transactions per second.
 
 
-## Layer3
+## Layer 3
 - It focus on UI interface means how easily users can use your blockchain
 
 - Most important of all, layer 3 networks help in interconnecting different aspects of the blockchain and web3 landscape to enable communications between them. 
